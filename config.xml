@@ -1,0 +1,7 @@
+<settings>
+    <host>localhost</host>
+    <port>3306</port>
+    <user>root</user>
+    <passwd></passwd>
+    <database>service</database>
+</settings>
